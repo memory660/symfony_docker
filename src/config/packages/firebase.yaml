@@ -1,0 +1,4 @@
+kreait_firebase:
+    projects:
+        project-ssr1:
+            credentials: '%kernel.project_dir%/config/firebase.json'
